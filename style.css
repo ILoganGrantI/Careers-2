@@ -1,0 +1,19 @@
+.h1-1 {
+	text-align: center;
+	border: 10px solid cyan;
+	color: white;
+}
+
+.img {
+	height: 100px;
+	width: 200px;
+	border: 10px solid cyan;
+	background: white;
+}
+
+.img-1 {
+	height: 100px;
+	width: 100px;
+	border: 10px solid cyan;
+	background: white;
+}
