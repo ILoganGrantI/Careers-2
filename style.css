@@ -17,3 +17,17 @@
 	border: 10px solid cyan;
 	background: white;
 }
+
+.body {
+	height: 100%;
+	width: 100%;
+	background-image: url(./Images/8.gif);
+  background-repeat: no-repeat;
+	background-size: 100%;
+	background-size: 100%;
+}
+
+.img3 {
+	width: 200px;
+	height: 200px;
+}
