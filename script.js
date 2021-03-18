@@ -1,3 +1,4 @@
+// all of the below connects the image with the button
 document.getElementById('change-image').addEventListener('click', image)
 
 document.getElementById('change-image1').addEventListener('click', image1)

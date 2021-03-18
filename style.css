@@ -1,52 +1,64 @@
 .h1-1 {
-	text-align: center;
-	border: 10px solid cyan;
-	color: white;
+  text-align: center;
+  border: 10px solid cyan;
+  color: white;
 }
 
 .img {
-	height: 100px;
-	width: 200px;
-	border: 10px solid cyan;
-	background: white;
+  height: 100px;
+  width: 200px;
+  border: 10px solid cyan;
+  background: white;
 }
 
 .img-1 {
-	height: 100px;
-	width: 100px;
-	border: 10px solid cyan;
-	background: white;
+  height: 100px;
+  width: 100px;
+  border: 10px solid cyan;
+  background: white;
 }
 
 .body {
-	height: 100%;
-	width: 100%;
-	background-image: url(./Images/8.gif);
+  height: 100%;
+  width: 100%;
+  background-image: url(./Images/8.gif);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .img3 {
-	width: 200px;
-	height: 200px;
+  width: 200px;
+  height: 200px;
 }
 
 #change-image {
-	padding: 10px;
+  padding: 10px;
 }
 
 #change-image1 {
-	padding: 10px;
+  padding: 10px;
 }
 
 #change-image2 {
-	padding: 10px;
+  padding: 10px;
 }
 
 #change-image3 {
-	padding: 10px;
+  padding: 10px;
 }
 
 #change-image4 {
-	padding: 10px;
+  padding: 10px;
+}
+
+p {
+  background: black;
+  color: white;
+  padding: 10px;
+}
+
+h1 {
+  background: black;
+  color: white;
+  padding: 10px;
 }
