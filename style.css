@@ -23,11 +23,30 @@
 	width: 100%;
 	background-image: url(./Images/8.gif);
   background-repeat: no-repeat;
-	background-size: 100%;
-	background-size: 100%;
+  background-size: cover;
 }
 
 .img3 {
 	width: 200px;
 	height: 200px;
+}
+
+#change-image {
+	padding: 10px;
+}
+
+#change-image1 {
+	padding: 10px;
+}
+
+#change-image2 {
+	padding: 10px;
+}
+
+#change-image3 {
+	padding: 10px;
+}
+
+#change-image4 {
+	padding: 10px;
 }
